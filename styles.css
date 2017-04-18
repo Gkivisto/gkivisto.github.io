@@ -26,3 +26,11 @@ header{
   background:green;
 
 }
+header ul{
+ display:inline-block; 
+}
+header ul li{
+ font-size:0.5em;
+  color:white;
+}
+
